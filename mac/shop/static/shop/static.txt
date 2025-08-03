@@ -1,0 +1,1 @@
+hello everyone this is my static content and i made a static directory tohold this content for me

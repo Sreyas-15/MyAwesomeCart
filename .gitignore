@@ -1,0 +1,27 @@
+# Python bytecode
+*.pyc
+__pycache__/
+
+# Django DB file
+db.sqlite3
+
+# Local environment variables
+.env
+
+# Django collected static files (optional)
+staticfiles/
+
+# Uploaded media files
+mac/media/
+
+# IDE configs
+.idea/
+.vscode/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Migrations cache
+**/__pycache__/
+*.log
