@@ -4,4 +4,6 @@ We need to follow syntax and give patch for the content
 
 My first chnage
 
+critical bug=fix for all
+
 my first branch commit
