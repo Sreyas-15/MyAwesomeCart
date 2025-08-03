@@ -7,3 +7,4 @@ My first chnage
 critical bug=fix for all
 
 my first branch commit
+my second branch commit
