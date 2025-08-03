@@ -1,3 +1,5 @@
 this is static file of blog
 static content can be loaded onto as per need and used
 We need to follow syntax and give patch for the content
+
+My first chnage
