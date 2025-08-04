@@ -10,5 +10,3 @@ my first branch commit
 my second branch commit
 
 this is wip change i will stash it to fix a bug on feature branch
-
-hey i a adding a risky code directly on master might revert later as its master
