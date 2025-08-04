@@ -8,3 +8,5 @@ critical bug=fix for all
 
 my first branch commit
 my second branch commit
+
+this is important integration feature which was braeking workflow
